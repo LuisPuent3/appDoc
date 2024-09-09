@@ -8,3 +8,5 @@
 
 **Elaborar el reporte de práctica**  
 Subir su reporte con la nomenclatura especificada.
+
+![image](https://github.com/user-attachments/assets/fc2d6e9c-415b-4df5-8192-46a06aade72b)
